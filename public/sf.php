@@ -23,7 +23,7 @@ include(dirname(__FILE__).'/../lib/rsvps.php');
   <link rel="stylesheet" type="text/css" href="/assets/icomoon/style.css">
   <link rel="stylesheet" type="text/css" href="/assets/styles.css?2">
   <link rel="stylesheet" href="/assets/leaflet/leaflet.css" />
-  <script src="/assets/jquery-2.2.0.min.js"></script>
+  <script src="/assets/jquery-3.7.1.min.js"></script>
   <script src="/semantic/semantic.min.js"></script>
   <script src="/assets/leaflet/leaflet.js"></script>
   <script src='https://js.tito.io/v1' async></script>
